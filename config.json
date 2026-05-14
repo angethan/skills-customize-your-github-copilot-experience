@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-scraping-beautifulsoup",
+      "title": "Web Scraping with BeautifulSoup",
+      "description": "Learn to extract data from web pages using BeautifulSoup, parse HTML, and organize scraped data into useful formats.",
+      "path": "assignments/web-scraping-beautifulsoup",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample HTML Page",
+          "file": "sample-page.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
